@@ -1,2 +1,2 @@
 # Stanford_Parser
-Using stanford parser to tokenize and parse both English/Arabic sentences
+Using Java and Stanford parser, This code tokenize and parse both English/Arabic sentences
